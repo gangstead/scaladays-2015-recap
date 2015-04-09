@@ -1,4 +1,5 @@
 class: center, middle
+background-image: url(slides/scala-element.svg)
 
 # Scala Days 2015 Recap
 ### Steven Gangstead
