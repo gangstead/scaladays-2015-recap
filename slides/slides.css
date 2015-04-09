@@ -7,8 +7,15 @@ h1, h2, h3 {
   font-family: 'Yanone Kaffeesatz';
   font-weight: normal;
 }
+h1 {
+  color: #E05F5E;
+}
+h2, h3 {
+  color: #7FDFF9;
+}
 .remark-slide-content {
-  background: #272822;
+  /* background: #272822; */
+  background: #253030;
   color: #f3f3f3;
   text-shadow: 0 0 20px #333;
   font-size: 2em;
